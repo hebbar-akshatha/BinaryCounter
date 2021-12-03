@@ -1,0 +1,9 @@
+C:\Code\SkillTestSolution\SkillTestSolutionLibrary\bin\Debug\netcoreapp2.2\SkillTestSolutionLibrary.deps.json
+C:\Code\SkillTestSolution\SkillTestSolutionLibrary\bin\Debug\netcoreapp2.2\SkillTestSolutionLibrary.dll
+C:\Code\SkillTestSolution\SkillTestSolutionLibrary\bin\Debug\netcoreapp2.2\SkillTestSolutionLibrary.pdb
+C:\Code\SkillTestSolution\SkillTestSolutionLibrary\obj\Debug\netcoreapp2.2\SkillTestSolutionLibrary.csprojAssemblyReference.cache
+C:\Code\SkillTestSolution\SkillTestSolutionLibrary\obj\Debug\netcoreapp2.2\SkillTestSolutionLibrary.csproj.CoreCompileInputs.cache
+C:\Code\SkillTestSolution\SkillTestSolutionLibrary\obj\Debug\netcoreapp2.2\SkillTestSolutionLibrary.AssemblyInfoInputs.cache
+C:\Code\SkillTestSolution\SkillTestSolutionLibrary\obj\Debug\netcoreapp2.2\SkillTestSolutionLibrary.AssemblyInfo.cs
+C:\Code\SkillTestSolution\SkillTestSolutionLibrary\obj\Debug\netcoreapp2.2\SkillTestSolutionLibrary.dll
+C:\Code\SkillTestSolution\SkillTestSolutionLibrary\obj\Debug\netcoreapp2.2\SkillTestSolutionLibrary.pdb

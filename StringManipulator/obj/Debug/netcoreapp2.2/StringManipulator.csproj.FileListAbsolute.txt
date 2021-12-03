@@ -1,0 +1,14 @@
+C:\Code\SkillTestSolution\StringManipulator\bin\Debug\netcoreapp2.2\StringManipulator.deps.json
+C:\Code\SkillTestSolution\StringManipulator\bin\Debug\netcoreapp2.2\StringManipulator.runtimeconfig.json
+C:\Code\SkillTestSolution\StringManipulator\bin\Debug\netcoreapp2.2\StringManipulator.runtimeconfig.dev.json
+C:\Code\SkillTestSolution\StringManipulator\bin\Debug\netcoreapp2.2\StringManipulator.dll
+C:\Code\SkillTestSolution\StringManipulator\bin\Debug\netcoreapp2.2\StringManipulator.pdb
+C:\Code\SkillTestSolution\StringManipulator\bin\Debug\netcoreapp2.2\SkillTestSolutionLibrary.dll
+C:\Code\SkillTestSolution\StringManipulator\bin\Debug\netcoreapp2.2\SkillTestSolutionLibrary.pdb
+C:\Code\SkillTestSolution\StringManipulator\obj\Debug\netcoreapp2.2\StringManipulator.csprojAssemblyReference.cache
+C:\Code\SkillTestSolution\StringManipulator\obj\Debug\netcoreapp2.2\StringManipulator.csproj.CoreCompileInputs.cache
+C:\Code\SkillTestSolution\StringManipulator\obj\Debug\netcoreapp2.2\StringManipulator.AssemblyInfoInputs.cache
+C:\Code\SkillTestSolution\StringManipulator\obj\Debug\netcoreapp2.2\StringManipulator.AssemblyInfo.cs
+C:\Code\SkillTestSolution\StringManipulator\obj\Debug\netcoreapp2.2\StringManipulator.csproj.CopyComplete
+C:\Code\SkillTestSolution\StringManipulator\obj\Debug\netcoreapp2.2\StringManipulator.dll
+C:\Code\SkillTestSolution\StringManipulator\obj\Debug\netcoreapp2.2\StringManipulator.pdb

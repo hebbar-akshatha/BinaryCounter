@@ -1,0 +1,11 @@
+C:\Code\FormatString\FormatString\bin\Debug\netcoreapp2.2\FormatString.deps.json
+C:\Code\FormatString\FormatString\bin\Debug\netcoreapp2.2\FormatString.runtimeconfig.json
+C:\Code\FormatString\FormatString\bin\Debug\netcoreapp2.2\FormatString.runtimeconfig.dev.json
+C:\Code\FormatString\FormatString\bin\Debug\netcoreapp2.2\FormatString.dll
+C:\Code\FormatString\FormatString\bin\Debug\netcoreapp2.2\FormatString.pdb
+C:\Code\FormatString\FormatString\obj\Debug\netcoreapp2.2\FormatString.csprojAssemblyReference.cache
+C:\Code\FormatString\FormatString\obj\Debug\netcoreapp2.2\FormatString.csproj.CoreCompileInputs.cache
+C:\Code\FormatString\FormatString\obj\Debug\netcoreapp2.2\FormatString.AssemblyInfoInputs.cache
+C:\Code\FormatString\FormatString\obj\Debug\netcoreapp2.2\FormatString.AssemblyInfo.cs
+C:\Code\FormatString\FormatString\obj\Debug\netcoreapp2.2\FormatString.dll
+C:\Code\FormatString\FormatString\obj\Debug\netcoreapp2.2\FormatString.pdb

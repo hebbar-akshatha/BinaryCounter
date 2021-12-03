@@ -1,0 +1,14 @@
+C:\Code\SkillTestSolution\CanvasConsole\bin\Debug\netcoreapp2.2\CanvasConsole.deps.json
+C:\Code\SkillTestSolution\CanvasConsole\bin\Debug\netcoreapp2.2\CanvasConsole.runtimeconfig.json
+C:\Code\SkillTestSolution\CanvasConsole\bin\Debug\netcoreapp2.2\CanvasConsole.runtimeconfig.dev.json
+C:\Code\SkillTestSolution\CanvasConsole\bin\Debug\netcoreapp2.2\CanvasConsole.dll
+C:\Code\SkillTestSolution\CanvasConsole\bin\Debug\netcoreapp2.2\CanvasConsole.pdb
+C:\Code\SkillTestSolution\CanvasConsole\bin\Debug\netcoreapp2.2\SkillTestSolutionLibrary.dll
+C:\Code\SkillTestSolution\CanvasConsole\bin\Debug\netcoreapp2.2\SkillTestSolutionLibrary.pdb
+C:\Code\SkillTestSolution\CanvasConsole\obj\Debug\netcoreapp2.2\CanvasConsole.csprojAssemblyReference.cache
+C:\Code\SkillTestSolution\CanvasConsole\obj\Debug\netcoreapp2.2\CanvasConsole.csproj.CoreCompileInputs.cache
+C:\Code\SkillTestSolution\CanvasConsole\obj\Debug\netcoreapp2.2\CanvasConsole.AssemblyInfoInputs.cache
+C:\Code\SkillTestSolution\CanvasConsole\obj\Debug\netcoreapp2.2\CanvasConsole.AssemblyInfo.cs
+C:\Code\SkillTestSolution\CanvasConsole\obj\Debug\netcoreapp2.2\CanvasConsole.csproj.CopyComplete
+C:\Code\SkillTestSolution\CanvasConsole\obj\Debug\netcoreapp2.2\CanvasConsole.dll
+C:\Code\SkillTestSolution\CanvasConsole\obj\Debug\netcoreapp2.2\CanvasConsole.pdb
